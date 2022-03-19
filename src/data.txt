@@ -1,0 +1,23 @@
+Project the population of a the following pincodes. pincode = 
+[ 
+    {
+        pin: '781022',
+        name: 'Khanapara'
+    },
+    {
+        pin: '781001', 
+        name: 'Fancy Bazar'
+    }, 
+    {
+        pin: '785013',  
+        name: 'Assam Agriculture University'
+    },
+    {
+        pin: '530002',  
+        name: 'D.C. Buildings'
+    },
+    {
+        pin: '781006', 
+        name: 'Assam Sachivalaya'
+    }
+]
